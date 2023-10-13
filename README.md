@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Usama Rehan.
-- 👀 I’m interested in Web and Mobile App Development.
-- 🌱 I’m currently learning React and React Native.
-- 💞️ I’m looking to collaborate on your front end projects.
+- 👀 I’m interested in Geospatial App Development.
+- 🌱 I’m currently working with Javascript and Python.
+- 💞️ I’m looking to collaborate on your full-stack web projects.
 - 📫 catch me at usamarehan557@gmail.com.
 
 <!---
